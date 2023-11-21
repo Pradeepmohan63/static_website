@@ -1,0 +1,80 @@
+
+.col1{
+    width:8.33%;
+    padding:0 15px;
+}
+
+.col2{
+    width:16.66%;
+    padding:0 15px;
+}
+
+.col3{
+    width:25%;
+    padding:0 15px;
+}
+
+.col4{
+    width:33.32%;
+    padding:0 15px;
+}
+
+.col5{
+    width:41.65%;
+    padding:0 15px;
+}
+
+.col6{
+    width:50%;
+    padding:0 15px;
+}
+
+.col7{
+    width:58.31%;
+    padding:0 15px;
+}
+
+.col8{
+    width:66.64%;
+    padding:0 15px;
+}
+
+.col9{
+    width:75%;
+    padding:0 15px;
+}
+
+.col10{
+    width:83.33%;
+    padding:0 15px;
+}
+
+.col11{
+    width:91.63%;
+    padding:0 15px;
+}
+
+.col12{
+    width:100%;
+    padding:0 15px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.container{
+    width:80%;
+    margin:0 auto;
+}
+
+.image{
+    display:flex;
+}
+.image img{
+    width: 100%;
+    padding: 0 10px;
+   
+}
